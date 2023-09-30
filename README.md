@@ -1,2 +1,2 @@
 # ACR122u
-Ancient forbidden magic
+Ancient forbidden magic for reading/writing NFC cards
