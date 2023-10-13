@@ -122,7 +122,7 @@ int main()
 
 		case '4':
 			std::cout << "Writing...\n";
-			writeSector(2, "75\n76859304688375739279805947372978593968703978");
+			writeSector(2, "Whatever");
 			std::cout << "Write result: " << std::boolalpha << (readSector(2) == "Whatever");
 			Sleep(3000);
 			break;
